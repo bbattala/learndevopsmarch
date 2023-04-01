@@ -1,4 +1,0 @@
-this is my practicefile
-this is my learning devopsfile
-this is my devopsfile
-this is my learningfile
