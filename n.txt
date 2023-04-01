@@ -1,2 +1,5 @@
+
 git pull
-Already up to date.
+Already up to date
+n
+>>>>>>> b36a925795d3de6d3556bf97eb073499ac424be5
