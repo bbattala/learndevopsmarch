@@ -1,2 +1,4 @@
+<<<<<<< HEAD
 this is my file 
-lin2
+this is also my file
+>>>>>>> dev
