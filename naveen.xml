@@ -1,6 +1,10 @@
 <note>
 <to>Tove</to>
 <from>Jani</from>
-<heading>age </heading>
+<<<<<<< HED
+<heading>age/remainder </heading>
+=======
+
+>>>>>>> 408e8742d2e5cabf4e6bc3d04d45e0d1cd3acf46
 <body>Don't forget me this weekend!</body>
 </note>
